@@ -1,0 +1,1 @@
+([('frontend', '/Volumes/LaCie/book_inventory/dist/frontend', 'EXECUTABLE')],)
